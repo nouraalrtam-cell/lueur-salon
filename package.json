@@ -1,0 +1,13 @@
+{
+  "name": "salon-booking-system",
+  "version": "1.0.0",
+  "description": "Unified salon booking system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6",
+    "express": "^4.21.2"
+  }
+}
